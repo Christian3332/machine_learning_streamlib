@@ -1,0 +1,7 @@
+venv/
+.venv/
+__pycache__/
+riwayat/*
+!riwayat/.gitkeep
+# file model lebih dari 100 MB, GitHub menolak file sebesar ini
+model/*.keras

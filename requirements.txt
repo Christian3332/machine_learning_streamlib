@@ -1,0 +1,6 @@
+streamlit>=1.50
+tensorflow>=2.20
+numpy
+pandas
+pillow
+opencv-python-headless

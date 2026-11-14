@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1-Score,Waktu Latih (menit),Epoch,Waktu Prediksi (ms/citra),Parameter (juta),Ukuran Bobot (MB)
+EfficientNetV2B0,0.9319,0.9449,0.9288,0.9291,14.1105,14.0,24.6726,5.9834,22.8247
+ConvNeXtTiny,0.9805,0.9823,0.98,0.9793,13.645,15.0,24.9261,27.8586,106.272
+SwinTiny,0.944,0.955,0.9421,0.9421,18.539,15.0,32.7853,27.5578,105.1247

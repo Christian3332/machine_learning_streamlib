@@ -1,0 +1,21 @@
+{
+  "accuracy": 0.9708029197080292,
+  "precision": 0.9755555555555556,
+  "recall": 0.9708095238095238,
+  "f1_score": 0.9706695106016128,
+  "model": "ConvNeXtTiny",
+  "jumlah_test": 411,
+  "ambang": 0.5,
+  "persen_dikenali": 0.9854014598540146,
+  "akurasi_saat_dikenali": 0.980246913580247,
+  "epoch": 15,
+  "epoch_terbaik": 14,
+  "waktu_latih_menit": 12.92,
+  "parameter_juta": 27.86,
+  "ukuran_input": [
+    224,
+    672
+  ],
+  "tensorflow": "2.21.0",
+  "keras": "3.13.2"
+}
